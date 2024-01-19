@@ -1,0 +1,150 @@
+2024-01-04T08:36:19+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+
+2024-01-04T08:36:19+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+
+2024-01-04T08:40:52+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+
+2024-01-04T10:17:22+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+
+2024-01-04T10:17:22+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+
+2024-01-04T10:17:29+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+

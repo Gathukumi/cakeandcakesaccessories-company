@@ -1,0 +1,306 @@
+[30-Nov-2023 16:51:29 UTC] Sync process for Gutenberg Blocks has started.
+[30-Nov-2023 16:51:29 UTC] CATEGORY:Importing categories..
+[30-Nov-2023 16:51:35 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[30-Nov-2023 16:51:35 UTC] CATEGORY:Completed category import.
+[30-Nov-2023 16:51:35 UTC] BLOCK: Getting Total Blocks
+[30-Nov-2023 16:51:35 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[30-Nov-2023 16:51:45 UTC] SITE: Getting Total Sites
+[30-Nov-2023 16:51:45 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[30-Nov-2023 16:51:45 UTC] SITE: Request count 2
+[30-Nov-2023 16:51:45 UTC] SITE: Importing request 1 ..
+[30-Nov-2023 16:51:45 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[30-Nov-2023 16:51:45 UTC] SITE: Storing in option ast-block-templates-sites-1
+[30-Nov-2023 16:51:46 UTC] SITE: Completed request 1
+[30-Nov-2023 16:51:46 UTC] SITE: Importing request 2 ..
+[30-Nov-2023 16:51:46 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[30-Nov-2023 16:51:46 UTC] SITE: Storing in option ast-block-templates-sites-2
+[30-Nov-2023 16:51:46 UTC] SITE: Completed request 2
+[30-Nov-2023 16:51:46 UTC] Sync process for Gutenberg Blocks is done.
+[03-Dec-2023 12:28:06 UTC] Sync process for Gutenberg Blocks has started.
+[03-Dec-2023 12:28:06 UTC] CATEGORY:Importing categories..
+[03-Dec-2023 12:28:06 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[03-Dec-2023 12:28:06 UTC] CATEGORY:Completed category import.
+[03-Dec-2023 12:28:06 UTC] BLOCK: Getting Total Blocks
+[03-Dec-2023 12:28:06 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[03-Dec-2023 12:28:07 UTC] BLOCK: Requests count 4
+[03-Dec-2023 12:28:07 UTC] BLOCK: Importing request 1 ..
+[03-Dec-2023 12:28:07 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[03-Dec-2023 12:28:07 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[03-Dec-2023 12:28:07 UTC] BLOCK: Completed request 1
+[03-Dec-2023 12:28:07 UTC] BLOCK: Importing request 2 ..
+[03-Dec-2023 12:28:07 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[03-Dec-2023 12:28:08 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[03-Dec-2023 12:28:08 UTC] BLOCK: Completed request 2
+[03-Dec-2023 12:28:08 UTC] BLOCK: Importing request 3 ..
+[03-Dec-2023 12:28:08 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[03-Dec-2023 12:28:08 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[03-Dec-2023 12:28:08 UTC] BLOCK: Completed request 3
+[03-Dec-2023 12:28:08 UTC] BLOCK: Importing request 4 ..
+[03-Dec-2023 12:28:08 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[03-Dec-2023 12:28:08 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[03-Dec-2023 12:28:08 UTC] BLOCK: Completed request 4
+[03-Dec-2023 12:28:08 UTC] SITE: Getting Total Sites
+[03-Dec-2023 12:28:08 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[03-Dec-2023 12:28:09 UTC] SITE: Request count 2
+[03-Dec-2023 12:28:09 UTC] SITE: Importing request 1 ..
+[03-Dec-2023 12:28:09 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[03-Dec-2023 12:28:09 UTC] SITE: Storing in option ast-block-templates-sites-1
+[03-Dec-2023 12:28:10 UTC] SITE: Completed request 1
+[03-Dec-2023 12:28:10 UTC] SITE: Importing request 2 ..
+[03-Dec-2023 12:28:10 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[03-Dec-2023 12:28:10 UTC] SITE: Storing in option ast-block-templates-sites-2
+[03-Dec-2023 12:28:10 UTC] SITE: Completed request 2
+[03-Dec-2023 12:28:10 UTC] Sync process for Gutenberg Blocks is done.
+[15-Dec-2023 19:51:54 UTC] Sync process for Gutenberg Blocks has started.
+[15-Dec-2023 19:51:54 UTC] CATEGORY:Importing categories..
+[15-Dec-2023 19:51:55 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[15-Dec-2023 19:51:55 UTC] CATEGORY:Completed category import.
+[15-Dec-2023 19:51:55 UTC] BLOCK: Getting Total Blocks
+[15-Dec-2023 19:51:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[15-Dec-2023 19:51:55 UTC] BLOCK: Requests count 4
+[15-Dec-2023 19:51:55 UTC] BLOCK: Importing request 1 ..
+[15-Dec-2023 19:51:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[15-Dec-2023 19:51:55 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[15-Dec-2023 19:51:55 UTC] BLOCK: Completed request 1
+[15-Dec-2023 19:51:55 UTC] BLOCK: Importing request 2 ..
+[15-Dec-2023 19:51:55 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[15-Dec-2023 19:51:56 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[15-Dec-2023 19:51:56 UTC] BLOCK: Completed request 2
+[15-Dec-2023 19:51:56 UTC] BLOCK: Importing request 3 ..
+[15-Dec-2023 19:51:56 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[15-Dec-2023 19:51:56 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[15-Dec-2023 19:51:56 UTC] BLOCK: Completed request 3
+[15-Dec-2023 19:51:56 UTC] BLOCK: Importing request 4 ..
+[15-Dec-2023 19:51:56 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[15-Dec-2023 19:51:57 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[15-Dec-2023 19:51:57 UTC] BLOCK: Completed request 4
+[15-Dec-2023 19:51:57 UTC] SITE: Getting Total Sites
+[15-Dec-2023 19:51:57 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[15-Dec-2023 19:51:57 UTC] SITE: Request count 2
+[15-Dec-2023 19:51:57 UTC] SITE: Importing request 1 ..
+[15-Dec-2023 19:51:57 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[15-Dec-2023 19:51:57 UTC] SITE: Storing in option ast-block-templates-sites-1
+[15-Dec-2023 19:51:57 UTC] SITE: Completed request 1
+[15-Dec-2023 19:51:57 UTC] SITE: Importing request 2 ..
+[15-Dec-2023 19:51:57 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[15-Dec-2023 19:51:58 UTC] SITE: Storing in option ast-block-templates-sites-2
+[15-Dec-2023 19:51:58 UTC] SITE: Completed request 2
+[15-Dec-2023 19:51:58 UTC] Sync process for Gutenberg Blocks is done.
+[20-Dec-2023 16:17:39 UTC] Sync process for Gutenberg Blocks has started.
+[20-Dec-2023 16:17:39 UTC] CATEGORY:Importing categories..
+[20-Dec-2023 16:17:41 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[20-Dec-2023 16:17:41 UTC] CATEGORY:Completed category import.
+[20-Dec-2023 16:17:41 UTC] BLOCK: Getting Total Blocks
+[20-Dec-2023 16:17:41 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[20-Dec-2023 16:17:41 UTC] BLOCK: Requests count 4
+[20-Dec-2023 16:17:41 UTC] BLOCK: Importing request 1 ..
+[20-Dec-2023 16:17:41 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[20-Dec-2023 16:17:42 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[20-Dec-2023 16:17:42 UTC] BLOCK: Completed request 1
+[20-Dec-2023 16:17:42 UTC] BLOCK: Importing request 2 ..
+[20-Dec-2023 16:17:42 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[20-Dec-2023 16:17:43 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[20-Dec-2023 16:17:43 UTC] BLOCK: Completed request 2
+[20-Dec-2023 16:17:43 UTC] BLOCK: Importing request 3 ..
+[20-Dec-2023 16:17:43 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[20-Dec-2023 16:17:43 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[20-Dec-2023 16:17:43 UTC] BLOCK: Completed request 3
+[20-Dec-2023 16:17:43 UTC] BLOCK: Importing request 4 ..
+[20-Dec-2023 16:17:43 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[20-Dec-2023 16:17:44 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[20-Dec-2023 16:17:44 UTC] BLOCK: Completed request 4
+[20-Dec-2023 16:17:44 UTC] SITE: Getting Total Sites
+[20-Dec-2023 16:17:44 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[20-Dec-2023 16:17:46 UTC] SITE: Request count 2
+[20-Dec-2023 16:17:46 UTC] SITE: Importing request 1 ..
+[20-Dec-2023 16:17:46 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[20-Dec-2023 16:17:50 UTC] SITE: Storing in option ast-block-templates-sites-1
+[20-Dec-2023 16:17:51 UTC] SITE: Completed request 1
+[20-Dec-2023 16:17:51 UTC] SITE: Importing request 2 ..
+[20-Dec-2023 16:17:51 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[20-Dec-2023 16:17:52 UTC] SITE: Storing in option ast-block-templates-sites-2
+[20-Dec-2023 16:17:52 UTC] SITE: Completed request 2
+[20-Dec-2023 16:17:52 UTC] Sync process for Gutenberg Blocks is done.
+[04-Jan-2024 08:28:54 UTC] PHP Warning:  Undefined array key "url" in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php on line 127
+[04-Jan-2024 08:28:54 UTC] PHP Warning:  Undefined array key "path" in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wpforms-lite/src/Forms/IconChoices.php on line 128
+[04-Jan-2024 08:36:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+[04-Jan-2024 08:36:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+[04-Jan-2024 08:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+[04-Jan-2024 08:42:00 UTC] Sync process for Gutenberg Blocks has started.
+[04-Jan-2024 08:42:00 UTC] CATEGORY:Importing categories..
+[04-Jan-2024 08:42:00 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[04-Jan-2024 08:42:00 UTC] CATEGORY:Completed category import.
+[04-Jan-2024 08:42:00 UTC] BLOCK: Getting Total Blocks
+[04-Jan-2024 08:42:00 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[04-Jan-2024 08:42:01 UTC] BLOCK: Requests count 4
+[04-Jan-2024 08:42:01 UTC] BLOCK: Importing request 1 ..
+[04-Jan-2024 08:42:01 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[04-Jan-2024 08:42:01 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[04-Jan-2024 08:42:01 UTC] BLOCK: Completed request 1
+[04-Jan-2024 08:42:01 UTC] BLOCK: Importing request 2 ..
+[04-Jan-2024 08:42:01 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[04-Jan-2024 08:42:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[04-Jan-2024 08:42:02 UTC] BLOCK: Completed request 2
+[04-Jan-2024 08:42:02 UTC] BLOCK: Importing request 3 ..
+[04-Jan-2024 08:42:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[04-Jan-2024 08:42:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[04-Jan-2024 08:42:02 UTC] BLOCK: Completed request 3
+[04-Jan-2024 08:42:02 UTC] BLOCK: Importing request 4 ..
+[04-Jan-2024 08:42:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[04-Jan-2024 08:42:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[04-Jan-2024 08:42:02 UTC] BLOCK: Completed request 4
+[04-Jan-2024 08:42:02 UTC] SITE: Getting Total Sites
+[04-Jan-2024 08:42:02 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[04-Jan-2024 08:42:03 UTC] SITE: Request count 2
+[04-Jan-2024 08:42:03 UTC] SITE: Importing request 1 ..
+[04-Jan-2024 08:42:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[04-Jan-2024 08:42:03 UTC] SITE: Storing in option ast-block-templates-sites-1
+[04-Jan-2024 08:42:03 UTC] SITE: Completed request 1
+[04-Jan-2024 08:42:03 UTC] SITE: Importing request 2 ..
+[04-Jan-2024 08:42:03 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[04-Jan-2024 08:42:04 UTC] SITE: Storing in option ast-block-templates-sites-2
+[04-Jan-2024 08:42:04 UTC] SITE: Completed request 2
+[04-Jan-2024 08:42:04 UTC] Sync process for Gutenberg Blocks is done.
+[04-Jan-2024 10:17:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+[04-Jan-2024 10:17:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+[04-Jan-2024 10:17:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php:14
+Stack trace:
+#0 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/custom-mini-cart.php(22): include_once()
+#1 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/shortcodes/hook.php(472): include_once('/home/davie/Loc...')
+#2 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): WpCafe\Core\Shortcodes\Hook->wpc_custom_mini_cart('')
+#3 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#4 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/general-template.php(3068): do_action('wp_footer')
+#6 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(655): wp_footer()
+#7 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(603): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe('text', Array)
+#8 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1193): WP_REST_Widget_Types_Controller->render(Object(WP_REST_Request))
+#9 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(1041): WP_REST_Server->respond_to_request(Object(WP_REST_Request), '/wp/v2/widget-t...', Array, NULL)
+#10 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api/class-wp-rest-server.php(431): WP_REST_Server->dispatch(Object(WP_REST_Request))
+#11 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/rest-api.php(424): WP_REST_Server->serve_request('/wp/v2/widget-t...')
+#12 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(324): rest_api_loaded(Object(WP))
+#13 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#14 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(418): do_action_ref_array('parse_request', Array)
+#16 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/class-wp.php(813): WP->parse_request('')
+#17 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-includes/functions.php(1336): WP->main('')
+#18 /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-blog-header.php(16): wp()
+#19 /home/davie/Local Sites/perfect-creations-ltd/app/public/index.php(17): require('/home/davie/Loc...')
+#20 {main}
+  thrown in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/wp-cafe/core/modules/mini-cart/views/mini-cart-template.php on line 14
+[10-Jan-2024 08:44:48 UTC] PHP Warning:  Undefined array key "user" in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/elementor/core/common/modules/connect/module.php on line 225
+[10-Jan-2024 08:44:48 UTC] PHP Warning:  Attempt to read property "email" on null in /home/davie/Local Sites/perfect-creations-ltd/app/public/wp-content/plugins/elementor/core/common/modules/connect/module.php on line 225
